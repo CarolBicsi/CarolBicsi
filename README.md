@@ -1,3 +1,5 @@
+![Custom Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&desc=I%20am%20CarolBicsi&textBg=false&descAlign=50&fontAlign=50&reversal=true&fontAlignY=39" />
 </p>
